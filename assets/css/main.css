@@ -1,0 +1,37 @@
+table{
+    width: 100%;
+   
+}
+
+.test{
+    width: 150px;
+   border-radius: 50%;
+  
+}
+.bgd1{
+    background-color: #7d203f;
+}
+.C{
+    color: white;
+    
+    line-height:30px;
+}
+.bgd2{
+    background-color: #631a36;
+   
+}
+.D{
+    text-align:left;
+    
+}
+.bgd3 {
+    color: #666766;
+    text-align: center;
+}
+.RA{
+    line-height:150%;
+    background-color: #f0d1db;
+}
+.E{
+    margin-left: 10px;
+}
